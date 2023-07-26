@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Static Badge](https://img.shields.io/badge/Node.JS-295225?logo=Node.JS)
 
 <!--
 **koruss/koruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
