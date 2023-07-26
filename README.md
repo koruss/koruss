@@ -22,18 +22,18 @@
 
 
 
-### Hi there 👋
-<!--
-**koruss/koruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name]! 👋
 
-Here are some ideas to get you started:
+I am a passionate Software Engineer with a love for the development world, especially when it comes to Python 🐍. Throughout my study path, I have explored a wide range of languages and frameworks, gaining experience in various areas, including backend, frontend, DevOps, QA, DBs, etc. Up there are some 👆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently studyng for AWS certification
+
+## 📫 Let's Connect
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kenneth-corrales-lizano/)
+- Mail: [Mail](kcorrales33@gmail.com)
+
+## 🎉 Fun Facts
+
+- Apart from coding, I also enjoy play videogames and traveling.
+
