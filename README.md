@@ -22,7 +22,7 @@
 
 
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Kenneth Corrales! 👋
 
 I am a passionate Software Engineer with a love for the development world, especially when it comes to Python 🐍. Throughout my study path, I have explored a wide range of languages and frameworks, gaining experience in various areas, including backend, frontend, DevOps, QA, DBs, etc. Up there are some 👆
 
